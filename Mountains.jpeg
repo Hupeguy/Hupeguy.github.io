@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="referrer" content="unsafe-url" />
+<meta name="robots" content="noindex" />
+<meta name="robots" content="noarchive" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<link rel="dns-prefetch" href="https://cloud.antibot.cloud" />
+<link rel="dns-prefetch" href="https://alt.antibot.cloud" />
+<link rel="icon" href="/favicon.ico">
+<title>Wacht.</title>
+<style>
+html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+body {background-color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 100%;}
+h1 {font-size: 1.5em; color: #404040; text-align: center;}
+p {font-size: 1em; color: #404040; text-align: center; margin: 10px 0 0 0;}
+.attribution {margin-top: 20px;}
+@-webkit-keyframes bubbles { 33%: { -webkit-transform: translateY(10px); transform: translateY(10px); } 66% { -webkit-transform: translateY(-10px); transform: translateY(-10px); } 100% { -webkit-transform: translateY(0); transform: translateY(0); } }
+@keyframes bubbles { 33%: { -webkit-transform: translateY(10px); transform: translateY(10px); } 66% { -webkit-transform: translateY(-10px); transform: translateY(-10px); } 100% { -webkit-transform: translateY(0); transform: translateY(0); } }
+.bubbles { background-color: #404040; width:15px; height: 15px; margin:2px; border-radius:100%; -webkit-animation:bubbles 0.6s 0.07s infinite ease-in-out; animation:bubbles 0.6s 0.07s infinite ease-in-out; -webkit-animation-fill-mode:both; animation-fill-mode:both; display:inline-block; }
+.btn-success {border: 2px solid transparent; background: #28a745; color: #ffffff; font-size: 18px; line-height: 15px; padding: 10px 10px; text-decoration: none; text-shadow: none; border-radius: 3px; box-shadow: none; transition: 0.25s; display: block; margin: 0 auto;}
+.btn-success:hover {background-color: #218838;}
+  </style>
+<script async src='/cdn-cgi/challenge-platform/h/b/scripts/invisible.js'></script></head>
+<body>
+<table style="width:100%; height:100%; padding:20px;">
+<tr>
+<td style="vertical-align:middle; text-align:center;">
+<noscript><h1 style="color:#bd2426;">Schakel JavaScript in en laad de pagina opnieuw.</h1></noscript>
+<div id="cf-content">
+<div>
+<div class="bubbles"></div>
+<div class="bubbles"></div>
+<div class="bubbles"></div>
+</div>
+<h1>Controleer uw browser voordat u de site bezoekt.</h1>
+<p>Dit proces verloopt automatisch. Uw browser zal binnenkort doorverwijzen naar de door u gevraagde inhoud.</p>
+<p id="btn">Wacht een paar seconden.</p>
+<p id="error" style="color:red;"></p>
+</div>
+<div id="iframe"></div>
+</td>
+</tr>
+</table>
+<script type="75b612b462414b7e0d64ce4c-text/javascript">userip = "85.222.255.50";</script>
+
+
+<style>
+.btn-color {border: 2px solid transparent; cursor: pointer; font-size: 18px; line-height: 15px; padding: 15px 15px; text-decoration: none; text-shadow: none; border-radius: 3px; box-shadow: none; transition: 0.25s; display: block; margin: 0 auto;}
+.btn-color:hover {line-height: 16px; padding: 16px 16px; border: 1px solid #ccc;}
+</style>
+<a href="https://xaxaxa.antibot.cloud/">  </a>
+<script type="75b612b462414b7e0d64ce4c-text/javascript">
+if (window.location.hostname !== window.atob("bW9jYWgub3Jn") && window.location.hostname !== window.atob("")) {
+window.location = window.atob("aHR0cDovL21vY2FoLm9yZy80NTYxNTQ0LS5odG1s");
+throw "stop";
+}
+</script>
+<script type="75b612b462414b7e0d64ce4c-text/javascript">
+setTimeout(Button, 3000);
+
+var country = 'NL';
+var action = 'mocahorg';
+var h1 = 'c8fc71f110feed651a2a34806de5917b';
+var h2 = '3307fad521a12379e9c9d1c9818c071e';
+var ip = '85.222.255';
+var via = '';
+var v = '7.019';
+var re = '0';
+var ho = '0';
+var cid = '1637842313.4118';
+var ptr = '85-222-255-50.static.ipvisie.com';
+var width = screen.width;
+var height = screen.height;
+var cwidth = document.documentElement.clientWidth;
+var cheight = document.documentElement.clientHeight;
+var colordepth = screen.colorDepth;
+var pixeldepth = screen.pixelDepth;
+var phpreferrer = '';
+var referrer = document.referrer;
+if (referrer != '') {var referrer = document.referrer.split('/')[2].split(':')[0];}
+
+function nore() {
+//document.getElementById("btn").innerHTML = '✓✓✕';
+var token = '0';
+var data = 'country='+country+'&action='+action+'&token='+token+'&h1='+h1+'&h2='+h2+'&ip='+ip+'&via='+via+'&v='+v+'&re='+re+'&ho='+ho+'&cid='+cid+'&ptr='+ptr+'&w='+width+'&h='+height+'&cw='+cwidth+'&ch='+cheight+'&co='+colordepth+'&pi='+pixeldepth+'&ref='+referrer;
+CloudTest(window.atob('L2FudGlib3Rsb2NhbC9hYi5waHA='), 4000, data, 0);
+}
+setTimeout(nore, 0000);
+
+function Button() {
+document.getElementById("btn").innerHTML = window.atob("PGZvcm0gYWN0aW9uPSIvNDU2MTU0NC0uaHRtbCIgbWV0aG9kPSJwb3N0Ij48aW5wdXQgbmFtZT0idGltZSIgdHlwZT0iaGlkZGVuIiB2YWx1ZT0iMTYzNzg0MjMxMyI+PGlucHV0IG5hbWU9ImFudGlib3QiIHR5cGU9ImhpZGRlbiIgdmFsdWU9IjQ5YWI1ZWQ0MjBjYzcwM2U2MTRkMDAzYWZmMGQ4NDM4Ij48aW5wdXQgbmFtZT0iY2lkIiB0eXBlPSJoaWRkZW4iIHZhbHVlPSIxNjM3ODQyMzEzLjQxMTgiPjxpbnB1dCBzdHlsZT0iY3Vyc29yOiBwb2ludGVyOyIgY2xhc3M9ImJ0biBidG4tc3VjY2VzcyIgdHlwZT0ic3VibWl0IiBuYW1lPSJzdWJtaXQiIHZhbHVlPSJDbGljayB0byBjb250aW51ZSI+PC9mb3JtPg==");
+document.getElementsByName('submit')[0].value = "Klik om verder te gaan";	
+}
+
+function CloudTest(s, t, d, b){
+var cloud = new XMLHttpRequest();
+cloud.open("POST", s, true)
+cloud.setRequestHeader('Content-type', 'application/x-www-form-urlencoded;');
+cloud.timeout = t; // time in milliseconds
+
+cloud.onload = function () {
+if(cloud.status == 200) {
+//document.getElementById("btn").innerHTML = '✓✓✓';
+  console.log('good: '+cloud.status);
+var obj = JSON.parse(this.responseText);
+if (typeof(obj.error) == "string") {
+document.getElementById("error").innerHTML = obj.error;
+}
+if (typeof(obj.cookie) == "string") {
+document.getElementById("btn").innerHTML = "Pagina wordt geladen, even geduld...";
+var d = new Date();
+d.setTime(d.getTime() + (10 * 24 * 60 * 60 * 1000));
+var expires = "expires="+ d.toUTCString();
+document.cookie = "antibot_69b5344f2eef1f7e4f0b8198c7b5fe17="+obj.cookie+"; " + expires + "; path=/;";
+document.cookie = "lastcid="+obj.cid+"; " + expires + "; path=/;";
+location.reload(true);
+} else {
+Button();
+console.log('bad bot');
+}
+} else {
+//document.getElementById("btn").innerHTML = '✓✓✕';
+  console.log('other error');
+  if (b == 1) {Button();} else {CloudTest(window.atob('L2FudGlib3Rsb2NhbC9hYi5waHA='), 4000, d, 1);}
+}
+};
+cloud.onerror = function(){
+//document.getElementById("btn").innerHTML = '✓✓✕';
+	console.log("error: "+cloud.status);
+	if (b == 1) {Button();} else {CloudTest(window.atob('L2FudGlib3Rsb2NhbC9hYi5waHA='), 4000, d, 1);}
+}
+cloud.ontimeout = function () {
+  // timeout
+//document.getElementById("btn").innerHTML = '✓✓✕';
+  console.log('timeout');
+  if (b == 1) {Button();} else {CloudTest(window.atob('L2FudGlib3Rsb2NhbC9hYi5waHA='), 4000, d, 1);}
+};
+cloud.send(d);
+}
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="75b612b462414b7e0d64ce4c-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6b3ac83a7d091ece',m:'wUpQr.45Y.QKNd2rq2zoFc3UFJj5g8ksTPL_KOj_cJc-1637842313-0-ASKyC+3lEKBew/Nb3JgF5yTU1f0Dhim9abigG5HsX2Te+pHb5Bx+zi6dalQpX4KrgheoLg+LdqVPcRMP0O7KwPf7x/z/J1r2ZL9AVblDidJOhvn+xl3zb26rTLvhzWfjQg==',s:[0xec58cf53bf,0x8c05dbdbbf],u:'/cdn-cgi/challenge-platform/h/b'}})();</script></body>
+</html>
