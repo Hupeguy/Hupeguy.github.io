@@ -38,42 +38,37 @@
 
               <html>
               <head>
-              	<title>Cookie!!!</title>
-              	<script type="text/javascript">
-              		function createCookie(cookieName,cookieValue,daysToExpire)
-                      {
-                        var date = new Date();
-                        date.setTime(date.getTime()+(daysToExpire*24*60*60*1000));
-                        document.cookie = cookieName + "=" + cookieValue + "; expires=" + date.toGMTString();
-                      }
-              		function accessCookie(cookieName)
-                      {
-                        var name = cookieName + "=";
-                        var allCookieArray = document.cookie.split(';');
-                        for(var i=0; i<allCookieArray.length; i++)
-                        {
-                          var temp = allCookieArray[i].trim();
-                          if (temp.indexOf(name)==0)
-                          return temp.substring(name.length,temp.length);
-                     	  }
-                      	return "";
-                      }
-              		function checkCookie()
-                      {
-                        var user = accessCookie("testCookie");
-                        if (user!="")
-                      	alert("Welcome Back " + user + "!!!");
-                        else
-                        {
-                          user = prompt("Please enter your name");
-                    
-                          if (user!="" && user!=null)
-                          {
-                          createCookie("testCookie", user, num);
-                          }
-                        }
-                      }
-              	</script>
-              </head>
-              <body onload="checkCookie()"></body>
+ function setCookie(cname, cvalue, exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+  let expires = "expires="+d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  let name = cname + "=";
+  let ca = document.cookie.split(';');
+  for(let i = 0; i < ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+function checkCookie() {
+  let user = getCookie("username");
+  if (user != "") {
+    alert("Welcome again " + user);
+  } else {
+    user = prompt("Please enter your name:", "");
+    if (user != "" && user != null) {
+      setCookie("username", user, 365);
+    }
+  }
+}
               </html>
