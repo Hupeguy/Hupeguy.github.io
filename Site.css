@@ -36,39 +36,7 @@ display: inline-block;
   float: left;
   }
 
-  #slider {
-      width: 256px;
-      height: 256px;
-      overflow: hidden;
-  }
-
-  #slider .slides {
-      display: block;
-      width: 6000px;
-      height: 2000px;
-      margin: 0;
-      padding: 0;
-  }
-
-  #slider .slide {
-      float: inherit;
-      list-style-type: none;
-      width: 256px;
-      height: 256px;
-  }
-
-  /* helper css, since we don't have images */
-  .slide1 {  background: url("image1.jpeg");}
-  .slide2 {  background: url("image2.jpeg");}
-  .slide3 {  background: url("image3.jpeg");}
-  .slide4 {  background: url("image4.jpeg");}
-
-  <html>
-  <head>
-  <style>
-  div.background {
-    background: url(klematis.jpg) repeat;
-    border: 2px solid black;
+ 
   }
 
   div.transbox {
@@ -88,7 +56,7 @@ display: inline-block;
   font-size: 200px;
   color: black;
 }
-}
+
 
 }
 .welcome-text{
